@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java: Constructor",
+            "type": "java",
+            "name": "Launch Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "JAVA",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ""
+        }
+    ]
+}
